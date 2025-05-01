@@ -1,12 +1,16 @@
 body {
-	background-color: #FFF4E9;
+	background-color: #FCDDBC;
 }
 
 h1 {
-	color: #EF2D56;
+	color: #EC838C;
 	text-align: center;
 }
 
-p { 
-	color: #EF2D56;
+a {
+	color:#1D3354;
 }
+.colorband {
+			background:#92DCE5;
+			height: 120px;
+			width: 100%;}
