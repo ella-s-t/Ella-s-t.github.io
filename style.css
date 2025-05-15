@@ -11,6 +11,6 @@ a {
 	color:#1D3354;
 }
 .colorband {
-			background:#92DCE5;
-			height: 120px;
-			width: 100%;}
+			background-color:#92DCE5;
+			height: 130px; width: 100%;
+			 margin:-10;}
