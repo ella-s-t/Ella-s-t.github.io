@@ -10,6 +10,17 @@ h1 {
 a {
 	color:#1D3354;
 }
+table { 
+	border-type:1px;
+}
+p, li, a {
+	font family: "Arial", sans serif;
+}
+
+a:hover {
+	color: white;
+}
+image
 .colorband {
 			background-color:#92DCE5;
 			height: 130px; width: 100%;
